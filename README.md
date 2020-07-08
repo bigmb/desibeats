@@ -1,2 +1,2 @@
 # desibeats
-Creating Code from Hindi Songs
+Creating Code from Hindi lyrics
